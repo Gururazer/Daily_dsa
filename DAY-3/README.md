@@ -19,4 +19,4 @@
 ---
 
 ## 📸 Screenshot
-![Valid Sudoku](screenshot.png)
+![Valid Sudoku](screenshot.jpg)

@@ -18,4 +18,4 @@
 ---
 
 ## 📸 Screenshot
-![Alice and Bob Playing Flower Game](screenshot.png)
+![Alice and Bob Playing Flower Game](screenshot.jpg)
