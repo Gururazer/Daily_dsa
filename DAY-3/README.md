@@ -1,4 +1,4 @@
-# Day 04 - Valid Sudoku  
+# Day 3 - Valid Sudoku  
 
 **Problem Link:** [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)  
 **Difficulty:** Medium  

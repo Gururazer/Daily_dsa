@@ -1,4 +1,4 @@
-# Day 03 - Alice and Bob Playing Flower Game  
+# Day 2 - Alice and Bob Playing Flower Game  
 
 **Problem Link:** [Alice and Bob Playing Flower Game](https://leetcode.com/problems/alice-and-bob-playing-flower-game/)  
 **Difficulty:** Easy  

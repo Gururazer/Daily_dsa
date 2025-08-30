@@ -1,4 +1,4 @@
-# Day 01 - Remove Element  
+# Day 0 - Remove Element  
 
 **Problem Link:** [Remove Element](https://leetcode.com/problems/remove-element/)  
 **Difficulty:** Easy  

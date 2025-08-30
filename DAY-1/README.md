@@ -1,4 +1,4 @@
-# Day 02 - Merge Sorted Array  
+# Day 1 - Merge Sorted Array  
 
 **Problem Link:** [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)  
 **Difficulty:** Easy  
