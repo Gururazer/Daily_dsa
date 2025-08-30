@@ -19,4 +19,4 @@
 ---
 
 ## 📸 Screenshot
-![Remove Element](screenshot.png)
+![Remove Element](screenshot.jpg)
