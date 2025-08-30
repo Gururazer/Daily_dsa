@@ -19,4 +19,4 @@
 ---
 
 ## 📸 Screenshot
-![Merge Sorted Array](screenshot.png)
+![Merge Sorted Array](screenshot.jpg)
