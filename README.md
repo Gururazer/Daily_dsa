@@ -17,4 +17,4 @@ Each day has:
 - [Day 4 - Sudoku Solver](DAY-4/README.md) ✅  
 - [Day 5 - MaxAveragePassRatio](DAY-5/README.md) ✅
 - [Day 6 - Find the Number of Ways to Place People I](DAY-6/README.md) ✅
-
+- [Day 7 - Find the Number of Ways to Place People II](DAY-7/README.md) ✅
