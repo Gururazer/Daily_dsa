@@ -18,3 +18,4 @@ Each day has:
 - [Day 5 - MaxAveragePassRatio](DAY-5/README.md) ✅
 - [Day 6 - Find the Number of Ways to Place People I](DAY-6/README.md) ✅
 - [Day 7 - Find the Number of Ways to Place People II](DAY-7/README.md) ✅
+- [Day 8 - Find Closest Person ](DAY-8/README.md) ✅
