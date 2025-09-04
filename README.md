@@ -8,6 +8,9 @@ Each day has:
 
 ---
 
+## 📸 Profile at Day 7
+![Profile Screenshot](screenshot.png)
+
 ## 📅 Progress Log  
 
 - [Day 0 - Remove Element](DAY-0/README.md) ✅  
