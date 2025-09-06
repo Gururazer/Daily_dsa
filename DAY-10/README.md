@@ -18,4 +18,4 @@ This problem is solved using a prefix sum technique for efficient range queries.
 - **Space**: O(1) - The solution uses a constant amount of extra space.
 
 ## 📸 Screenshot
-![Screenshot Placeholder](screenshot)
+![Screenshot Placeholder](screenshot.png)
