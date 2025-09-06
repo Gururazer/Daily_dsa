@@ -23,3 +23,7 @@ Each day has:
 - [Day 7 - Find the Number of Ways to Place People II](DAY-7/README.md) ✅
 - [Day 8 - Find Closest Person ](DAY-8/README.md) ✅
 - [Day 9 - Minimum Operations to Make the Integer Zero](DAY-9/README.md) ✅
+- [Day 10 - Minimum Operations to Make Array Elements Zero](DAY-10/README.md) ✅
+
+
+
