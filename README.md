@@ -24,6 +24,7 @@ Each day has:
 - [Day 8 - Find Closest Person ](DAY-8/README.md) ✅
 - [Day 9 - Minimum Operations to Make the Integer Zero](DAY-9/README.md) ✅
 - [Day 10 - Minimum Operations to Make Array Elements Zero](DAY-10/README.md) ✅
+- [Day 11 - Find N Unique Integers Sum up to Zero](DAY-11/README.md) ✅
 
 
 
