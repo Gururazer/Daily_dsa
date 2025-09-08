@@ -25,6 +25,6 @@ Each day has:
 - [Day 9 - Minimum Operations to Make the Integer Zero](DAY-9/README.md) ✅
 - [Day 10 - Minimum Operations to Make Array Elements Zero](DAY-10/README.md) ✅
 - [Day 11 - Find N Unique Integers Sum up to Zero](DAY-11/README.md) ✅
-
+- [Day 12 - Convert Integer to the Sum of Two No-Zero Integers](DAY-12/README.md) ✅
 
 
