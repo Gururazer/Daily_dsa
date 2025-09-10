@@ -27,4 +27,4 @@ Each day has:
 - [Day 11 - Find N Unique Integers Sum up to Zero](DAY-11/README.md) ✅
 - [Day 12 - Convert Integer to the Sum of Two No-Zero Integers](DAY-12/README.md) ✅
 - [Day 13 - Number of People Aware of a Secret](DAY-13/README.md) ✅
-
+- [Day 14 - Minimum Number of People to Teach](DAY-14/README.md) ✅
