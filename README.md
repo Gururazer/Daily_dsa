@@ -30,4 +30,4 @@ Each day has:
 - [Day 14 - Minimum Number of People to Teach](DAY-14/README.md) ✅
 - [Day 15 - Sort Vowels in a String](DAY-15/README.md) ✅
 - [Day 16 - Vowels Game in a String](DAY-16/README.md) ✅
-- [Day 17 - Find Most Frequent Vowel and Consonant](DAY-16/README.md) ✅
+- [Day 17 - Find Most Frequent Vowel and Consonant](DAY-17/README.md) ✅
