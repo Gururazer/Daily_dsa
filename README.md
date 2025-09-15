@@ -32,3 +32,4 @@ Each day has:
 - [Day 16 - Vowels Game in a String](DAY-16/README.md) ✅
 - [Day 17 - Find Most Frequent Vowel and Consonant](DAY-17/README.md) ✅
 - [Day 18 - Vowel Spellchecker](DAY-18/README.md) ✅
+- [Day 19 - Maximum Number of Words You Can Type](DAY-19/README.md) ✅
