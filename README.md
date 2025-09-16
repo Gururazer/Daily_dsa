@@ -33,3 +33,4 @@ Each day has:
 - [Day 17 - Find Most Frequent Vowel and Consonant](DAY-17/README.md) ✅
 - [Day 18 - Vowel Spellchecker](DAY-18/README.md) ✅
 - [Day 19 - Maximum Number of Words You Can Type](DAY-19/README.md) ✅
+- [Day 20 - Replace Non-Coprime Numbers in Array](DAY-20/README.md) ✅
