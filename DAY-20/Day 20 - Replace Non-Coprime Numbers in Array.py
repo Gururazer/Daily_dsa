@@ -16,4 +16,3 @@ class Solution:
                     break
             stack.append(current_num)
         return stack
-    
