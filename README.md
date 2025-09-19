@@ -36,3 +36,4 @@ Each day has:
 - [Day 20 - Replace Non-Coprime Numbers in Array](DAY-20/README.md) ✅
 - [Day 21 - Design a Food Rating System](DAY-21/README.md) ✅
 - [Day 22 - Design Task Manager](DAY-22/README.md) ✅
+- [Day 23 - Design Spreadsheet](DAY-23/README.md) ✅
