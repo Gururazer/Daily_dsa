@@ -38,3 +38,4 @@ Each day has:
 - [Day 22 - Design Task Manager](DAY-22/README.md) ✅
 - [Day 23 - Design Spreadsheet](DAY-23/README.md) ✅
 - [Day 24 - Implement Router](DAY-24/README.md) ✅
+- [Day 25 - Design Movie Rental System](DAY-25/README.md) ✅
