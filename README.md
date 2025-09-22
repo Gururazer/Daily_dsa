@@ -39,3 +39,4 @@ Each day has:
 - [Day 23 - Design Spreadsheet](DAY-23/README.md) ✅
 - [Day 24 - Implement Router](DAY-24/README.md) ✅
 - [Day 25 - Design Movie Rental System](DAY-25/README.md) ✅
+- [Day 26 - Count Elements With Maximum Frequency](DAY-26/README.md) ✅
