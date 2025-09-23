@@ -40,3 +40,4 @@ Each day has:
 - [Day 24 - Implement Router](DAY-24/README.md) ✅
 - [Day 25 - Design Movie Rental System](DAY-25/README.md) ✅
 - [Day 26 - Count Elements With Maximum Frequency](DAY-26/README.md) ✅
+- [Day 27 - Compare Version Numbers](DAY-27/README.md) ✅
