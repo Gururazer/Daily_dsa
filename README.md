@@ -43,3 +43,4 @@ Each day has:
 - [Day 27 - Compare Version Numbers](DAY-27/README.md) ✅
 - [Day 28 - Fraction to Recurring Decimal](DAY-28/README.md) ✅
 - [Day 29 - Triangle](DAY-29/README.md) ✅
+- [Day 30 - Valid Triangle Number](DAY-30/README.md) ✅
