@@ -44,3 +44,4 @@ Each day has:
 - [Day 28 - Fraction to Recurring Decimal](DAY-28/README.md) ✅
 - [Day 29 - Triangle](DAY-29/README.md) ✅
 - [Day 30 - Valid Triangle Number](DAY-30/README.md) ✅
+- [Day 31 - Largest Triangle Area](DAY-31/README.md) ✅
