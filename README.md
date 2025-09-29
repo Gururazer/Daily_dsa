@@ -46,3 +46,4 @@ Each day has:
 - [Day 30 - Valid Triangle Number](DAY-30/README.md) ✅
 - [Day 31 - Largest Triangle Area](DAY-31/README.md) ✅
 - [Day 32 - Largest Perimeter Triangle](DAY-32/README.md) ✅
+- [Day 33 - Minimum Score Triangulation of Polygon](DAY-32/README.md) ✅
