@@ -47,3 +47,4 @@ Each day has:
 - [Day 31 - Largest Triangle Area](DAY-31/README.md) ✅
 - [Day 32 - Largest Perimeter Triangle](DAY-32/README.md) ✅
 - [Day 33 - Minimum Score Triangulation of Polygon](DAY-33/README.md) ✅
+- [Day 34 - Find Triangular Sum of an Array](DAY-34/README.md) ✅
