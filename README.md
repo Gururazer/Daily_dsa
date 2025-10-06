@@ -53,3 +53,4 @@ Each day has:
 - [Day 37 - Trapping Rain Water II](DAY-37/README.md) ✅
 - [Day 38 - Container With Most Water](DAY-38/README.md) ✅
 - [Day 39 - Pacific Atlantic Water Flow](DAY-39/README.md) ✅
+- [Day 40 - Swim in Rising Water](DAY-40/README.md) ✅
