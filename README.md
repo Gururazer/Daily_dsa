@@ -55,3 +55,4 @@ Each day has:
 - [Day 39 - Pacific Atlantic Water Flow](DAY-39/README.md) ✅
 - [Day 40 - Swim in Rising Water](DAY-40/README.md) ✅
 - [Day 41 - Avoid Flood in The City](DAY-41/README.md) ✅
+- [Day 42 - Successful Pairs of Spells and Potions](DAY-42/README.md) ✅
