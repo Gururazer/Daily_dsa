@@ -56,3 +56,4 @@ Each day has:
 - [Day 40 - Swim in Rising Water](DAY-40/README.md) ✅
 - [Day 41 - Avoid Flood in The City](DAY-41/README.md) ✅
 - [Day 42 - Successful Pairs of Spells and Potions](DAY-42/README.md) ✅
+- [Day 43 - Find the Minimum Amount of Time to Brew Potions](DAY-43/README.md) ✅
