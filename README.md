@@ -58,3 +58,4 @@ Each day has:
 - [Day 42 - Successful Pairs of Spells and Potions](DAY-42/README.md) ✅
 - [Day 43 - Find the Minimum Amount of Time to Brew Potions](DAY-43/README.md) ✅
 - [Day 44 - Taking Maximum Energy From the Mystic Dungeon](DAY-44/README.md) ✅
+- [Day 45 - Maximum Total Damage With Spell Casting](DAY-45/README.md) ✅
