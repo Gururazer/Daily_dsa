@@ -59,3 +59,4 @@ Each day has:
 - [Day 43 - Find the Minimum Amount of Time to Brew Potions](DAY-43/README.md) ✅
 - [Day 44 - Taking Maximum Energy From the Mystic Dungeon](DAY-44/README.md) ✅
 - [Day 45 - Maximum Total Damage With Spell Casting](DAY-45/README.md) ✅
+- [Day 46 - Find Sum of Array Product of Magical Sequences](DAY-46/README.md) ✅
