@@ -60,3 +60,4 @@ Each day has:
 - [Day 44 - Taking Maximum Energy From the Mystic Dungeon](DAY-44/README.md) ✅
 - [Day 45 - Maximum Total Damage With Spell Casting](DAY-45/README.md) ✅
 - [Day 46 - Find Sum of Array Product of Magical Sequences](DAY-46/README.md) ✅
+- [Day 47 - Find Resultant Array After Removing Anagrams](DAY-47/README.md) ✅
