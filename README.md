@@ -61,3 +61,4 @@ Each day has:
 - [Day 45 - Maximum Total Damage With Spell Casting](DAY-45/README.md) ✅
 - [Day 46 - Find Sum of Array Product of Magical Sequences](DAY-46/README.md) ✅
 - [Day 47 - Find Resultant Array After Removing Anagrams](DAY-47/README.md) ✅
+- [Day 48 - Adjacent Increasing Subarrays Detection I](DAY-48/README.md) ✅
