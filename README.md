@@ -62,3 +62,4 @@ Each day has:
 - [Day 46 - Find Sum of Array Product of Magical Sequences](DAY-46/README.md) ✅
 - [Day 47 - Find Resultant Array After Removing Anagrams](DAY-47/README.md) ✅
 - [Day 48 - Adjacent Increasing Subarrays Detection I](DAY-48/README.md) ✅
+- [Day 49 - Adjacent Increasing Subarrays Detection II](DAY-49/README.md) ✅
