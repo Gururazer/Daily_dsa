@@ -63,3 +63,4 @@ Each day has:
 - [Day 47 - Find Resultant Array After Removing Anagrams](DAY-47/README.md) ✅
 - [Day 48 - Adjacent Increasing Subarrays Detection I](DAY-48/README.md) ✅
 - [Day 49 - Adjacent Increasing Subarrays Detection II](DAY-49/README.md) ✅
+- [Day 50 - Smallest Missing Non-negative Integer After Operations](DAY-50/README.md) ✅
