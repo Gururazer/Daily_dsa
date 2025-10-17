@@ -64,3 +64,4 @@ Each day has:
 - [Day 48 - Adjacent Increasing Subarrays Detection I](DAY-48/README.md) ✅
 - [Day 49 - Adjacent Increasing Subarrays Detection II](DAY-49/README.md) ✅
 - [Day 50 - Smallest Missing Non-negative Integer After Operations](DAY-50/README.md) ✅
+- [Day 51 - Maximize the Number of Partitions After Operations](DAY-51/README.md) ✅
