@@ -67,3 +67,4 @@ Each day has:
 - [Day 51 - Maximize the Number of Partitions After Operations](DAY-51/README.md) ✅
 - [Day 52 - Maximum Number of Distinct Elements After Operations](DAY-52/README.md) ✅
 - [Day 53 - Lexicographically Smallest String After Applying Operations](DAY-53/README.md) ✅
+- [Day 54 - Final Value of Variable After Performing Operations](DAY-54/README.md) ✅
