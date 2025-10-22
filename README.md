@@ -69,3 +69,4 @@ Each day has:
 - [Day 53 - Lexicographically Smallest String After Applying Operations](DAY-53/README.md) ✅
 - [Day 54 - Final Value of Variable After Performing Operations](DAY-54/README.md) ✅
 - [Day 55 - Maximum Frequency of an Element After Performing Operations I](DAY-55/README.md) ✅
+- [Day 56 - Maximum Frequency of an Element After Performing Operations II](DAY-56/README.md) ✅
