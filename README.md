@@ -70,3 +70,4 @@ Each day has:
 - [Day 54 - Final Value of Variable After Performing Operations](DAY-54/README.md) ✅
 - [Day 55 - Maximum Frequency of an Element After Performing Operations I](DAY-55/README.md) ✅
 - [Day 56 - Maximum Frequency of an Element After Performing Operations II](DAY-56/README.md) ✅
+- [Day 57 - Check If Digits Are Equal in String After Operations I](DAY-57/README.md) ✅
