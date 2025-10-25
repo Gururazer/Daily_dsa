@@ -72,3 +72,4 @@ Each day has:
 - [Day 56 - Maximum Frequency of an Element After Performing Operations II](DAY-56/README.md) ✅
 - [Day 57 - Check If Digits Are Equal in String After Operations I](DAY-57/README.md) ✅
 - [Day 58 - Next Greater Numerically Balanced Number](DAY-58/README.md) ✅
+- [Day 59 - Calculate Money in Leetcode Bank](DAY-59/README.md) ✅
