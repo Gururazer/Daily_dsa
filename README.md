@@ -73,3 +73,4 @@ Each day has:
 - [Day 57 - Check If Digits Are Equal in String After Operations I](DAY-57/README.md) ✅
 - [Day 58 - Next Greater Numerically Balanced Number](DAY-58/README.md) ✅
 - [Day 59 - Calculate Money in Leetcode Bank](DAY-59/README.md) ✅
+- [Day 60 - Simple Bank System](DAY-60/README.md) ✅
