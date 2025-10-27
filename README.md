@@ -74,3 +74,4 @@ Each day has:
 - [Day 58 - Next Greater Numerically Balanced Number](DAY-58/README.md) ✅
 - [Day 59 - Calculate Money in Leetcode Bank](DAY-59/README.md) ✅
 - [Day 60 - Simple Bank System](DAY-60/README.md) ✅
+- [Day 61 - Number of Laser Beams in a Bank](DAY-61/README.md) ✅
