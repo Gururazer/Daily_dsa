@@ -76,3 +76,4 @@ Each day has:
 - [Day 60 - Simple Bank System](DAY-60/README.md) ✅
 - [Day 61 - Number of Laser Beams in a Bank](DAY-61/README.md) ✅
 - [Day 62 - Make Array Elements Equal to Zero](DAY-62/README.md) ✅
+- [Day 63 - Smallest Number With All Set Bits](DAY-63/README.md) ✅
