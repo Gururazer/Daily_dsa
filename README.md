@@ -80,3 +80,4 @@ Each day has:
 - [Day 64 - Minimum Number of Increments on Subarrays to Form a Target Array](DAY-64/README.md) ✅
 - [Day 65 - The Two Sneaky Numbers of Digitville](DAY-65/README.md) ✅
 - [Day 66 - Delete Nodes From Linked List Present in Array](DAY-66/README.md) ✅
+- [Day 67 - Count Unguarded Cells in the Grid](DAY-67/README.md) ✅
