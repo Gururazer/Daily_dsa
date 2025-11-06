@@ -84,3 +84,4 @@ Each day has:
 - [Day 68 - Minimum Time to Make Rope Colorful](DAY-68/README.md) ✅
 - [Day 69 - Find X-Sum of All K-Long Subarrays I](DAY-69/README.md) ✅
 - [Day 70 - Find X-Sum of All K-Long Subarrays II](DAY-70/README.md) ✅
+- [Day 71 - Power Grid Maintenance](DAY-71/README.md) ✅
