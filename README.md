@@ -86,3 +86,4 @@ Each day has:
 - [Day 70 - Find X-Sum of All K-Long Subarrays II](DAY-70/README.md) ✅
 - [Day 71 - Power Grid Maintenance](DAY-71/README.md) ✅
 - [Day 72 - Maximize the Minimum Powered City](DAY-72/README.md) ✅
+- [Day 73 - Minimum One Bit Operations to Make Integers Zero](DAY-73/README.md) ✅
