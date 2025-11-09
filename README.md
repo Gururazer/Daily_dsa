@@ -87,3 +87,4 @@ Each day has:
 - [Day 71 - Power Grid Maintenance](DAY-71/README.md) ✅
 - [Day 72 - Maximize the Minimum Powered City](DAY-72/README.md) ✅
 - [Day 73 - Minimum One Bit Operations to Make Integers Zero](DAY-73/README.md) ✅
+- [Day 74 - Count Operations to Obtain Zero](DAY-74/README.md) ✅
