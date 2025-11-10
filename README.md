@@ -88,3 +88,4 @@ Each day has:
 - [Day 72 - Maximize the Minimum Powered City](DAY-72/README.md) ✅
 - [Day 73 - Minimum One Bit Operations to Make Integers Zero](DAY-73/README.md) ✅
 - [Day 74 - Count Operations to Obtain Zero](DAY-74/README.md) ✅
+- [Day 75 - Minimum Operations to Convert All Elements to Zero](DAY-75/README.md) ✅
