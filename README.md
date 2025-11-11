@@ -89,3 +89,4 @@ Each day has:
 - [Day 73 - Minimum One Bit Operations to Make Integers Zero](DAY-73/README.md) ✅
 - [Day 74 - Count Operations to Obtain Zero](DAY-74/README.md) ✅
 - [Day 75 - Minimum Operations to Convert All Elements to Zero](DAY-75/README.md) ✅
+- [Day 76 - Ones and Zeroes](DAY-76/README.md) ✅
