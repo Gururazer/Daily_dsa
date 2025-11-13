@@ -91,3 +91,4 @@ Each day has:
 - [Day 75 - Minimum Operations to Convert All Elements to Zero](DAY-75/README.md) ✅
 - [Day 76 - Ones and Zeroes](DAY-76/README.md) ✅
 - [Day 77 - Minimum Number of Operations to Make All Array Elements Equal to 1](DAY-77/README.md) ✅
+- [Day 78 - Maximum Number of Operations to Move Ones to the End](DAY-78/README.md) ✅
