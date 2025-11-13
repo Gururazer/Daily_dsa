@@ -9,7 +9,7 @@ Each day has:
 ---
 
 ## 📸 Profile at Day 7
-![Profile Screenshot](screenshot.png)
+![Profile Screenshot](LCPROFILE.png)
 
 ## 📅 Progress Log  
 
