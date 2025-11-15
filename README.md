@@ -93,3 +93,4 @@ Each day has:
 - [Day 77 - Minimum Number of Operations to Make All Array Elements Equal to 1](DAY-77/README.md) ✅
 - [Day 78 - Maximum Number of Operations to Move Ones to the End](DAY-78/README.md) ✅  
 - [Day 79 - Increment Submatrices by One](DAY-79/README.md) ✅
+- [Day 80 - Count the Number of Substrings With Dominant Ones](DAY-80/README.md) ✅
