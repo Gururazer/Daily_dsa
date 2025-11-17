@@ -94,4 +94,5 @@ Each day has:
 - [Day 78 - Maximum Number of Operations to Move Ones to the End](DAY-78/README.md) ✅  
 - [Day 79 - Increment Submatrices by One](DAY-79/README.md) ✅
 - [Day 80 - Count the Number of Substrings With Dominant Ones](DAY-80/README.md) ✅
-- [Day 81 - Number of Substrings With Only 1s](DAY-81/README.md) ✅
+- [Day 81 - Number of Substrings With Only 1s](DAY-81/README.md) ✅  
+- [Day 82 - Check If All 1's Are at Least Length K Places Away](DAY-82/README.md) ✅ 
