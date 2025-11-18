@@ -96,3 +96,4 @@ Each day has:
 - [Day 80 - Count the Number of Substrings With Dominant Ones](DAY-80/README.md) ✅
 - [Day 81 - Number of Substrings With Only 1s](DAY-81/README.md) ✅  
 - [Day 82 - Check If All 1's Are at Least Length K Places Away](DAY-82/README.md) ✅ 
+- [Day 83 - 1-bit and 2-bit Characters](DAY-83/README.md) ✅ 
