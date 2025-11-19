@@ -97,3 +97,4 @@ Each day has:
 - [Day 81 - Number of Substrings With Only 1s](DAY-81/README.md) ✅  
 - [Day 82 - Check If All 1's Are at Least Length K Places Away](DAY-82/README.md) ✅ 
 - [Day 83 - 1-bit and 2-bit Characters](DAY-83/README.md) ✅ 
+- [Day 84 - Keep Multiplying Found Values by Two](DAY-84/README.md) ✅ 
