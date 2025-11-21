@@ -99,3 +99,4 @@ Each day has:
 - [Day 83 - 1-bit and 2-bit Characters](DAY-83/README.md) ✅ 
 - [Day 84 - Keep Multiplying Found Values by Two](DAY-84/README.md) ✅ 
 - [Day 85 - Set Intersection Size At Least Two](DAY-85/README.md) ✅ 
+- [Day 86 - Unique Length-3 Palindromic Subsequences](DAY-86/README.md) ✅ 
