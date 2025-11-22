@@ -100,3 +100,4 @@ Each day has:
 - [Day 84 - Keep Multiplying Found Values by Two](DAY-84/README.md) ✅ 
 - [Day 85 - Set Intersection Size At Least Two](DAY-85/README.md) ✅ 
 - [Day 86 - Unique Length-3 Palindromic Subsequences](DAY-86/README.md) ✅ 
+- [Day 87 - Find Minimum Operations to Make All Elements Divisible by Three](DAY-87/README.md) ✅ 
