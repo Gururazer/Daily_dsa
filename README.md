@@ -102,3 +102,4 @@ Each day has:
 - [Day 86 - Unique Length-3 Palindromic Subsequences](DAY-86/README.md) ✅ 
 - [Day 87 - Find Minimum Operations to Make All Elements Divisible by Three](DAY-87/README.md) ✅ 
 - [Day 88 - Greatest Sum Divisible by Three](DAY-88/README.md) ✅
+- [Day 89 - Binary Prefix Divisible By 5](DAY-89/README.md) ✅
