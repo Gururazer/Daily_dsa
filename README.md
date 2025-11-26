@@ -104,3 +104,4 @@ Each day has:
 - [Day 88 - Greatest Sum Divisible by Three](DAY-88/README.md) ✅
 - [Day 89 - Binary Prefix Divisible By 5](DAY-89/README.md) ✅
 - [Day 90 - Smallest Integer Divisible by K](DAY-90/README.md) ✅
+- [Day 91 - Paths in Matrix Whose Sum Is Divisible by K](DAY-91/README.md) 
