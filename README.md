@@ -107,3 +107,4 @@ Each day has:
 - [Day 91 - Paths in Matrix Whose Sum Is Divisible by K](DAY-91/README.md) 
 - [Day 92 - Maximum Subarray Sum With Length Divisible by K](DAY-92/README.md) 
 - [Day 93 - Maximum Number of K-Divisible Components](DAY-93/README.md) 
+- [Day 94 - Minimum Operations to Make Array Sum Divisible by K](DAY-94/README.md) 
