@@ -109,3 +109,4 @@ Each day has:
 - [Day 93 - Maximum Number of K-Divisible Components](DAY-93/README.md) 
 - [Day 94 - Minimum Operations to Make Array Sum Divisible by K](DAY-94/README.md) 
 - [Day 95 - Make Sum Divisible by P](DAY-95/README.md) 
+- [Day 96 - Maximum Running Time of N Computers](DAY-96/README.md) 
