@@ -112,3 +112,4 @@ Each day has:
 - [Day 96 - Maximum Running Time of N Computers](DAY-96/README.md) 
 - [Day 97 - Count Number of Trapezoids I](DAY-97/README.md) 
 - [Day 98 - Count Number of Trapezoids II](DAY-98/README.md) 
+- [Day 99 - Count Collisions on a Road](DAY-99/README.md) 
