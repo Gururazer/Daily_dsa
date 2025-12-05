@@ -8,8 +8,10 @@ Each day has:
 
 ---
 
-## 📸 Profile at Day 78
-![Profile Screenshot](LCPROFILE.png)
+## 📸 Profile at Day 100
+![Profile Screenshot](LC100.png)
+
+![Profile Screenshot](100daybadge.png)
 
 ## 📅 Progress Log  
 
@@ -112,4 +114,5 @@ Each day has:
 - [Day 96 - Maximum Running Time of N Computers](DAY-96/README.md) 
 - [Day 97 - Count Number of Trapezoids I](DAY-97/README.md) 
 - [Day 98 - Count Number of Trapezoids II](DAY-98/README.md) 
-- [Day 99 - Count Collisions on a Road](DAY-99/README.md) 
+- [Day 99 - Count Collisions on a Road](DAY-99/README.md)
+- [Day 100 - Count Partitions with Even Sum Difference](DAY-100/README.md)
